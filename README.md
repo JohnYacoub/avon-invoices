@@ -1,3 +1,4 @@
 # AVON PDF Capturing...
 
-This project was made with love !
+Reads PDF using Node and regex with A simple UI build with react
+
